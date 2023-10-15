@@ -146,7 +146,7 @@ a:hover {
   background-color: #7f7888;
 }
 
-/* Bottom nav */
+/* mobile screen */
 @media screen and (max-width: 767px) {
   .nav_menu {
     position: fixed;
